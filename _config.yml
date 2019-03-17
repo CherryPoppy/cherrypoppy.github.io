@@ -1,0 +1,34 @@
+# Site settings
+## Change the values as needed.
+title: Pham Hoang Nam Anh
+email: namanh269@gmail.com
+description: "Mình là Nam Anh, một sinh viên IT của HCMUS, mình làm blog này từ khi còn là một sinh viên IT năm nhất, mình muốn thông qua blog này giúp các bạn sinh viên hay học sinh có thể tìm đọc những bài viết trên quora hay medium bằng Tiếng Việt. Lí do mình chọn dịch bài đơn giản vì khả năng viết của mình không được tốt cho lắm ^^ Hi vọng trong tương lai mình có thể tự viết các bài viết dành cho blog của mình."
+keywords: "jekyll, theme, material, muicss"
+plugins: [jekyll-paginate]
+#url: "http://bitwiser.in/bitwiser-material" # the base hostname & protocol for your site
+url: https://phamhoangnamanh.github.io # the base hostname & protocol for your site
+baseurl: / # the subpath of your site, e.g. /blog/
+paginate: 5
+paginate_path: "page:num"
+# Build settings
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
+links:
+  facebook: phamhoang.namanh.3
+#  twitter: brijeshb42
+  email: namanh269@gmail.com
+  github: PhamHoangNamAnh
+exclude:
+  - bower_components
+  - README.md
+full_name: Pham Hoang Nam Anh
+
+##set this to enable disqus commenting
+#disqus: bitwiser
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: bitwiser.in

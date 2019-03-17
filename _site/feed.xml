@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pham Hoang Nam Anh</title>
+    <description>Mình là Nam Anh, một sinh viên IT của HCMUS, mình làm blog này từ khi còn là một sinh viên IT năm nhất, mình muốn thông qua blog này giúp các bạn sinh viên hay học sinh có thể tìm đọc những bài viết trên quora hay medium bằng Tiếng Việt. Lí do mình chọn dịch bài đơn giản vì khả năng viết của mình không được tốt cho lắm ^^ Hi vọng trong tương lai mình có thể tự viết các bài viết dành cho blog của mình.</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 Mar 2019 15:59:23 +0700</pubDate>
+    <lastBuildDate>Sun, 17 Mar 2019 15:59:23 +0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Why Using VIM Will Improve Productivity?</title>
+        <description>&lt;p&gt;Nguồn: &lt;a href=&quot;https://medium.com/@mattcheale/why-using-vim-will-improve-productivity-8111caf0ec64&quot;&gt;Medium&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bài dịch:&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt; Tại sao sử dụng VIM sẽ làm tăng hiệu suất của bạn ?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tôi luôn là một người sử dụng VI/VIM bình thường, tôi&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000//2019/02/27/Why-Using-VIM-Will-Improve-Productivity.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/02/27/Why-Using-VIM-Will-Improve-Productivity.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to write code you will love in the future?</title>
+        <description>&lt;p&gt;Nguồn: &lt;a href=&quot;https://medium.freecodecamp.org/how-to-write-code-you-will-love-in-the-future-ee5decae5ce4&quot;&gt;Medium&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bài dịch:&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;Làm thế nào để bạn viết code mà bạn sẽ yêu nó trong tương lai?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ông chú Ben đã từng nói với Peter Parker (người nhện), “Sức mạnh càng lớn thì trách nhiệm càng lớn”. Câu trích dẫn này áp dụng cho cộng đồng lập trình viên tham gia vào việc xây dựng các dự án. Làm việc trong ngành hơn 5 năm đã khiến tôi suy ngẫm về những trải nghiệm của mình cho đến nay, và đã đến lúc tôi trả lại cho cộng đồng.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lúc bắt đầu&lt;/strong&gt;&lt;br /&gt;
+Tôi bắt đầu sự nghiệp của mình với một công ty đa quốc gia, nhưng tôi sớm nhận ra được rằng tôi muốn làm việc với  vai trò thử thách hơn và với trách nhiệm lớn hơn. Do đó, sau một năm, tôi tham gia vào một công ty khởi nghiệp.&lt;/p&gt;
+
+&lt;p&gt;Công ty này chỉ có 5 thành viên trong đội ngũ lập trình. Nó đã thay đổi cách nhìn của tôi về công việc phát triển phần mềm. Một cách may mắn nào đó, tôi tìm được một người hướng dẫn tốt và những người đồng đội tuyệt vời, những người đã giúp tôi phát triển. Nhưng một lần nữa, chúng tôi là một công ty phát triển nhanh. Để  đảm bảo việc giao sản phẩm đúng hạn, chúng tôi thường thỏa hiệp với chất lượng code. Chúng tôi thường gỉa định mình sẽ sửa chúng khi kết thúc. Vì vậy khi hoàn thành sản phẩm, chúng tôi thường để lại những lỗ hổng. Nó dẫn tới những món nợ kĩ thuật, đó không phải là một điều xấu.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Đừng bao giờ thỏa hiệp với chất lượng code&lt;/strong&gt;&lt;br /&gt;
+Sau một thời gian, chúng tôi dần dần nhận ra, chúng tôi không thể mở rộng được nữa. Vì vậy chúng tôi quyết định viết lại toàn bộ codebase, điều mà dẫn đến việc mất thời gian hơn. Nhưng điều này cuối cùng dẫn đến một codebase tốt, có thể mở rộng và rất thú vị để làm việc. Tôi vẫn nhớ chúng tôi đã từng có một &lt;strong&gt;thư mục đáng hổ thẹn&lt;/strong&gt; (shame folder) trong trường hợp có bất cứ lập trình viên nào quyết định viết code mà họ biết sẽ cần bổ sung sau này.&lt;/p&gt;
+
+&lt;p&gt;Bằng cách này, chúng tôi làm cho mình có trách nhiệm phải duy trì chất lượng code. Nhưng bài học tôi nhận ra được là:&lt;/p&gt;
+
+&lt;p&gt;Ngay cả khi phải mất thêm một chút thời gian để hoàn thành, chúng ta nên dùng thời gian đó và viết những dòng code chất lượng cho tương lai. Bởi vì nhờ sự cố gắng to lớn chúng ta đặt vào đó, chúng ta sẽ tiết kiệm nhiều thời gian và tiền bạc (về sau này).&lt;/p&gt;
+
+&lt;p&gt;Chúng ta đã giải quyết vấn đề về kiến trúc, nhưng sau đó lại dẫn đến một phần thú vị: &lt;strong&gt;hiệu suất&lt;/strong&gt;. Khi xây dựng dự án, chúng tôi đã sử dụng nhiều thư viện khác nhau để tăng tốc độ hoàn thiện. Chúng tôi đã cảm thấy dự án được đưa vào quá nhiều thứ nặng. Nó cần rất nhiều bài tập thể dục (để bớt nặng :v). Để giảm độ nặng của dự án, chúng tôi đã làm một vài phép phân tích và nhận ra chúng tôi đã dùng nhiều thư viện không cần thiết. Chúng tôi có thể tự xây dựng những thư viện đó. Và vì vậy chúng tôi đã loại bỏ các thư viện đó và xây dựng các thư viện của riêng mình. Thật tuyệt vời!! Sản phẩm của chúng tôi đã nhanh hơn nhờ vào kích thước gói nhỏ hơn.&lt;/p&gt;
+
+&lt;p&gt;Nhưng cuộc chiến với hiệu suất vẫn chưa kết thúc. Khi bạn xây dựng một dự án từ đầu, cảm giác trở thành một anh hùng dần dần ăn mòn bạn. Câu chuyện vẫn chưa thể kết thúc. Chúng tôi có thể nhanh hơn nữa. Rồi nó chợt nhận ra chúng tôi, chúng tôi vẫn đang sử dụng thư viện. Điều gì sẽ xảy ra nếu chúng tôi không sử dụng bất kì thư viện nào? Sự hồi hộp của việc viết lách đang ăn mòn chúng tôi, vì vậy chúng tôi đã làm điều đó. Chúng tôi đã xây dựng một dự án thành công mà hầu như không có thư viện.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Luôn luôn viết document và comment&lt;/strong&gt;&lt;br /&gt;
+Sau đó, một câu chuyện đến với chúng tôi: công ty khởi nghiệp cuối cùng đã được mua lại. Tôi được chuyển sang nhóm mới. Những thành viên mới hiểu biết hơn với những thư viện tồn tại trên cộng đồng lập trình. Một cách bất ngờ, codebase của chúng tôi là người ngoài hành tinh với họ. Chúng tôi quả thật đã tạo ra thư viện, nhưng chúng tôi không có đủ thời gian để viết document cho nó. Điều này tạo ra một lỗ hổng lớn. Tôi lại học được một bài học quan trọng về document và comment code.&lt;/p&gt;
+
+&lt;p&gt;Tôi nhận ra code không chỉ cho riêng mình tôi. Là một tác giả, nhiệm vụ của bạn là viết ra cho cộng đồng.&lt;/p&gt;
+
+&lt;p&gt;Vì vậy, vấn đề đạo đức là, không có gì sai khi bạn viết thư viện của riêng bạn. Nhưng nếu bạn làm, document và comment cho nó là bắt buộc. Bất cứ ai cũng có thể hiểu thư viện của bạn chỉ bằng cách đọc document của chúng. Tôi không thể nhấn mạnh hơn, đừng viết cho riêng mình! Là một người review code và bảo trì code, đó là trách nhiệm của bạn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Đừng phát minh lại những thứ đã có&lt;/strong&gt;&lt;br /&gt;
+Thời gian trôi qua, tôi nhận ra rằng không có lí do nào để phát minh lại toàn bộ những thứ đã có. Trừ khi chúng ta có rất nhiều thời gian cho việc phát triển và document những thứ giống nhau để mọi người có thể hiểu. Nếu có một thư viện có thể giải quyết vấn đề của bạn, hãy đóng góp cho dự án cụ thể đó. Đó là then chốt, và tôi muốn trích dẫn lại một câu nói từ blog của Phil Walton:&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Xây dựng lại những thứ đã có là có hại cho kinh doanh, nhưng là tuyệt vời cho việc học hỏi. Bạn có thể tạm thời nhận được những tiện ích khi code, hoặc những thư viện sự kiện từ npm, nhưng hãy tưởng tượng bạn sẽ học được biết bao nhiêu nếu bạn cố gắng học để tự xây dựng những thứ đó.
+Vì vậy hãy quyết định khôn ngoan. ^_-&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Luôn luôn kiểm thử codebase của bạn&lt;/strong&gt;&lt;br /&gt;
+Tôi không thể nhấn mạnh hơn tầm quan trọng của việc này. Nhờ vào những thư viện như thư viện kiểm thử của Jest và React, và nhiều thư viện khác, kiểm thử code chưa bao giờ dễ dàng đến thế. Thường khi codebase trở nên rộng lớn hơn, ngay cả một dòng code thay đổi cũng có thể làm ứng dụng ngừng hoạt động. Nếu việc kiểm thử được tự động hóa, chúng ta có thể tự tin hơn với những thay đổi.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Duy trì việc tự học&lt;/strong&gt;&lt;br /&gt;
+Tôi muốn những công việc về frontend của tôi trở nên nhanh và hiệu quả. Cuối cùng tôi cũng quyết định học React, phần lớn bởi vì những kiến thức nền tảng mà tôi có. Tôi nhận thấy nó không được đánh giá cao, và sử dụng nó rất tương tự với sử dụng JavaScript thuần. Nó đã làm cuộc sống của tôi trở nên tốt hơn.&lt;/p&gt;
+
+&lt;p&gt;Những thư viện như React, Vue, Angular và hằng hà sa số thứ khác (đặt biệt là Redux) không chỉ giúp bạn xây dựng một giao diện người dùng nhanh. Chúng cũng mở ra cánh cửa cho những khái niệm khác như lập trình hàm, tính bất biến, và nhiều thứ khác, những thứ thực sự giúp bạn trở nên tốt hơn trong nghề. Học React và Redux đã nâng cao những hiểu biết của tôi.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tổng kết&lt;/strong&gt;&lt;br /&gt;
+Khi có được kinh nghiệm, cuối cùng tôi cũng tham gia vào một công ty khởi nghiệp khác, nơi mà tôi được giao việc xây dựng những dự án từ đầu và đặt những nền móng cho chúng. Nhưng thời gian này tôi đã được trang bị tất của những kinh nghiệm và sai lầm trước đó. Tôi rất vui khi nói rằng, tôi tự hào về những gì tôi đã xây dựng được và tôi chắc rằng con đường phía trước vẫn còn dài. Theo đuổi sự hoàn hảo là một con đường không có kết thúc, nhưng chúng ta có thể luôn phấn đấu để đi trên con đường đúng.&lt;/p&gt;
+
+&lt;p&gt;Tất cả kinh nghiệm mà tôi đã nói đến ở trên không có nghĩa chúng là bắt buộc. Có rất nhiều điều đặc biệt về hành trình của tôi trong sự nghiệp. Nhưng tôi hi vọng những kinh nghiệm này sẽ giúp bạn trở thành một lập trình viên tốt hơn, và tôi luôn biết ơn đối với cộng đồng, những người đã giúp tôi phát triển.&lt;/p&gt;
+
+&lt;p&gt;Theo dõi những bài viết của tôi trên &lt;a href=&quot;https://twitter.com/daslusan&quot;&gt;twitter&lt;/a&gt; để có thêm những cập nhật về những bài viết và những công việc frontend mới của tôi. Và hãy chia sẻ bài viết này lên twitter để giúp những người khác cũng biết về nó. Chia sẻ là quan tâm ^-^&lt;/p&gt;
+
+&lt;p&gt;Hãy nhớ bạn có thể vỗ tay 50 lần cho bài viết này để thể hiện tình cảm của bạn!&lt;/p&gt;
+
+&lt;p&gt;P.s: Đây là bài dịch đầu tiên của mình nên còn nhiều thiếu sót, nếu có đóng góp các bạn hãy liên hệ với mình qua mail namanh269@gmail.com nhé. Rất vui khi nhận được sự đóng góp của các bạn ^_^&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Feb 2019 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000//2019/02/19/How-to-write-code-you-will-love-in-the-future.html</link>
+        <guid isPermaLink="true">http://localhost:4000//2019/02/19/How-to-write-code-you-will-love-in-the-future.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
